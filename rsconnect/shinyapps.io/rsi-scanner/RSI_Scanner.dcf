@@ -1,0 +1,13 @@
+name: RSI_Scanner
+title: RSI_Scanner
+username:
+account: rsi-scanner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6056787
+bundleId: 5783284
+url: https://rsi-scanner.shinyapps.io/RSI_Scanner/
+when: 1649577213.0796
+lastSyncTime: 1649577213.07962
+asMultiple: FALSE
+asStatic: FALSE
